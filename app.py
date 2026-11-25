@@ -21,7 +21,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("✨ Triagem Visual Estética")
+st.title("✨ Triagem Visual Estética - DEMO")
 st.caption(
     "Sistema de análise visual preliminar, anamnese e recomendações estéticas."
 )
