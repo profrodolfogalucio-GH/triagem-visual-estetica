@@ -16,7 +16,7 @@ from urllib.parse import quote
 # ==============================================================================
 
 st.set_page_config(
-    page_title="Triagem Visual Estética",
+    page_title="Triagem Visual Estética - DEMO",
     page_icon="✨",
     layout="wide"
 )
